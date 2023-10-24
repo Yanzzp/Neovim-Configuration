@@ -1,0 +1,1 @@
+[Windows字体安装](https://learn.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup)
